@@ -1,0 +1,1 @@
+This repository includes documentation from programming assignments and team projects. 
